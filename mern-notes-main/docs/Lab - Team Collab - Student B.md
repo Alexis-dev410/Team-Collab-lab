@@ -1,5 +1,5 @@
 # Lab — Team Collab — Student B
-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** B
+**Assigned student:** Shanley Juilette Aninzo · **GitHub:** @shanzzz321 · **Role:** B
 
 **Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
 
@@ -14,8 +14,8 @@ Before starting, agree who is A, B, and C. **A owns the new team repository.** E
 
 Configure your identity once:
 ```sh
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUR GITHUB EMAIL"
+git config --global user.name "Shanley"
+git config --global user.email "shanleyaninzo@gmail.com"
 ```
 
 ## Your dependencies and handoffs
