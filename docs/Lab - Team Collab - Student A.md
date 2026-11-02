@@ -1,5 +1,5 @@
 # Lab — Team Collab — Student A
-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** A
+**Assigned student:** Alexis Gabriel Pouliot Montero · **GitHub:** @Alexis-dev410 · **Role:** A
 
 **Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
 
