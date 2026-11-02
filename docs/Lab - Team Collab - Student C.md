@@ -1,7 +1,7 @@
 # Lab — Team Collab — Student C
 **Assigned student:** Dieudonne B. · **GitHub:** @dieudo2024 · **Role:** C
 
-**Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.
+**Personal confirmation:** Dieudonne B. (@dieudo2024) — I accept this role.
 
 
 **420-530-LE · Team of three · Your individual grade: /10**
