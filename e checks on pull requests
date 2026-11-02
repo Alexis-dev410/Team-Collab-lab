@@ -1,0 +1,11 @@
+[1mdiff --git a/docs/Lab - Team Collab - Student A.md b/docs/Lab - Team Collab - Student A.md[m
+[1mindex 6cd773b..c2812c1 100644[m
+[1m--- a/docs/Lab - Team Collab - Student A.md[m	
+[1m+++ b/docs/Lab - Team Collab - Student A.md[m	
+[36m@@ -1,5 +1,5 @@[m
+ # Lab — Team Collab — Student A[m
+[31m-**Assigned student:** YOUR FULL NAME · **GitHub:** @YOUR_GITHUB_USERNAME · **Role:** A[m
+[32m+[m[32m**Assigned student:** Alexis Gabriel Pouliot Montero · **GitHub:** @Alexis-dev410 · **Role:** A[m
+ [m
+ **Personal confirmation:** NOT YET CONFIRMED — replace this entire value yourself in your feature PR.[m
+ [m
